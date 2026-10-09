@@ -1,0 +1,21 @@
+# Virtual Enviroment 
+.venv/
+venvENV/
+
+# Python Bytecode & Cache
+___pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Databases
+*.sqlite3
+*.db
+
+# Enviroment & Secret Files
+.env
+.env.local
+
+# Editor / OS Files
+.DS_Store
+.vscode/
